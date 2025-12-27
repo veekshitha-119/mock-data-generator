@@ -17,5 +17,7 @@ A web-based mock data generator built using HTML, CSS, and JavaScript.
 2. Open `index.html` in browser
 3. Click Add Field and Generate JSON
 
+## Live Demo
+https://jade-praline-53bf38.netlify.app
 
 
